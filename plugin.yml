@@ -1,0 +1,5 @@
+name: JoinUndQuit
+main: JoinUndQuit\Main
+api: [4.0.0]
+version: 1.1
+author: LetsGamesDE
